@@ -364,12 +364,4 @@ Built with ❤️ for NGO community management.
 ----
 all sql codes are in migrations folder just run them u are done with it 
 ------
-co-ordinator ka email password:
- Email: coordinator@ngo.com
-Password: Coordinator@123
-admin ka email password:
- admin@ngo.com
-pass- Admin@123
-volunter ka email password:
- cherylcar03@gmail.com
-Cheryl@123
+
